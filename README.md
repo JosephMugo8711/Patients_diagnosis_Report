@@ -24,3 +24,7 @@ The database design helps to retrieve, update, and modify the patient’s detail
 12.Write a query to return NULL if the patient’s name and doctor’s name are similar else return the patient’s name.
 13.Write a query to return Yes if the patient’s age is greater than 40 else return No.
 14.Write a query to display the doctor’s duplicate name from the table.
+
+
+https://user-images.githubusercontent.com/91910681/192140894-a7ddfb9d-4142-4120-85d1-d4479305033c.mp4
+
